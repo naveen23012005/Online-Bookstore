@@ -30,7 +30,7 @@ It involves working with three CSV datasets — Books, Customers, and Orders —
 
 8)Retrieve all orders where the total amount exceeds $20.
 
-9) List all genres available in the Books table.
+9)List all genres available in the Books table.
 
 10)Find the book with the lowest stock.
 
@@ -44,7 +44,7 @@ It involves working with three CSV datasets — Books, Customers, and Orders —
 
 14)List customers who have placed at least 2 orders.
 
-15) Find the most frequently ordered book.
+15)Find the most frequently ordered book.
 
 16)Show the top 3 most expensive books in the Fantasy genre.
 
@@ -52,13 +52,12 @@ It involves working with three CSV datasets — Books, Customers, and Orders —
 
 18)List the cities where customers who spent over $30 are located.
 
-19) Find the customer who spent the most on orders.
+19)Find the customer who spent the most on orders.
 
 20)Calculate the stock remaining after fulfilling all orders.
 
 ### Concepts Covered
 
--
 -  SQL SELECT, WHERE, GROUP BY, HAVING, ORDER BY
 
 - JOINs (INNER, LEFT, RIGHT)
