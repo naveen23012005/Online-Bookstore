@@ -72,7 +72,7 @@ It involves working with three CSV datasets — Books, Customers, and Orders —
 
 ### Expected Outcome
 
-- By completing this project, you will:
+- By completing this project:
 
 - Gain hands-on experience with real-world SQL operations.
 
